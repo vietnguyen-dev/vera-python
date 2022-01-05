@@ -1,0 +1,5 @@
+print('Numbers to add...')
+numb1 = int(input('Choose the First Number: '))
+numb2 = int(input('Choose the Second Number: '))
+print(numb1 + numb2)
+print('You are a sap')
